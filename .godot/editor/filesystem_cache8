@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709912293
+icon.svg::CompressedTexture2D::5826468923296414452::1709911590::1709911691::1::::<><>::
+::res://prefabs/::1709912227
+player.tscn::PackedScene::3121144060401212072::1709912227::0::1::::<><>::
+player.gd::GDScript::-1::1709912349::0::1::::<>CharacterBody3D<>::
+::res://scenes/::1709912302
+node_3d.tscn::PackedScene::557229178136937364::1709912364::0::1::::<><>::uid://bkp510njm5vca::::res://prefabs/player.tscn<>res://prefabs/player.gd
+::res://scripts/::1709911801
